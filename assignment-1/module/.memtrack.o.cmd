@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/cs730/assignment-1/module/memtrack.o := ld -m elf_x86_64  -z max-page-size=0x200000    -r -o /home/ubuntu/cs730/assignment-1/module/memtrack.o /home/ubuntu/cs730/assignment-1/module/mem_tracker.o /home/ubuntu/cs730/assignment-1/module/hook.o 

@@ -1,0 +1,5 @@
+2 /sys/kernel/memtrack/command
+2 /sys/kernel/memtrack/command
+2 /sys/kernel/memtrack/command
+never /sys/kernel/mm/transparent_hugepage/enabled
+never /sys/kernel/mm/transparent_hugepage/enabled
